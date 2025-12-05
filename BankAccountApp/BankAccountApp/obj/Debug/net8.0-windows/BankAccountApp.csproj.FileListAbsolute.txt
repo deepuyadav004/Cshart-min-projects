@@ -1,0 +1,16 @@
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.exe
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.deps.json
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.runtimeconfig.json
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.dll
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.pdb
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.Form1.resources
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.csproj.GenerateResource.cache
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.AssemblyInfoInputs.cache
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.AssemblyInfo.cs
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.csproj.CoreCompileInputs.cache
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.dll
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\refint\BankAccountApp.dll
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.pdb
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.genruntimeconfig.cache
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\ref\BankAccountApp.dll

@@ -1,0 +1,14 @@
+D:\development\c# tutorial\TestManagement\bin\Debug\net8.0\TestManagement.exe
+D:\development\c# tutorial\TestManagement\bin\Debug\net8.0\TestManagement.deps.json
+D:\development\c# tutorial\TestManagement\bin\Debug\net8.0\TestManagement.runtimeconfig.json
+D:\development\c# tutorial\TestManagement\bin\Debug\net8.0\TestManagement.dll
+D:\development\c# tutorial\TestManagement\bin\Debug\net8.0\TestManagement.pdb
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\TestManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\TestManagement.AssemblyInfoInputs.cache
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\TestManagement.AssemblyInfo.cs
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\TestManagement.csproj.CoreCompileInputs.cache
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\TestManagement.dll
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\refint\TestManagement.dll
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\TestManagement.pdb
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\TestManagement.genruntimeconfig.cache
+D:\development\c# tutorial\TestManagement\obj\Debug\net8.0\ref\TestManagement.dll

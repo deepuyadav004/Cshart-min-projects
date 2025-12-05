@@ -1,0 +1,14 @@
+D:\development\c# tutorial\Hello\Hello\bin\Debug\net8.0\Hello.exe
+D:\development\c# tutorial\Hello\Hello\bin\Debug\net8.0\Hello.deps.json
+D:\development\c# tutorial\Hello\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+D:\development\c# tutorial\Hello\Hello\bin\Debug\net8.0\Hello.dll
+D:\development\c# tutorial\Hello\Hello\bin\Debug\net8.0\Hello.pdb
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\Hello.dll
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\refint\Hello.dll
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\Hello.pdb
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+D:\development\c# tutorial\Hello\Hello\obj\Debug\net8.0\ref\Hello.dll
