@@ -1,0 +1,35 @@
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\appsettings.Development.json
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\appsettings.json
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\dotnet curd app.staticwebassets.endpoints.json
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\dotnet curd app.exe
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\dotnet curd app.deps.json
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\dotnet curd app.runtimeconfig.json
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\dotnet curd app.dll
+d:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\dotnet curd app.pdb
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\rpswa.dswa.cache.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.GeneratedMSBuildEditorConfig.editorconfig
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.AssemblyInfoInputs.cache
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.AssemblyInfo.cs
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.csproj.CoreCompileInputs.cache
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.MvcApplicationPartsAssemblyInfo.cache
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.sourcelink.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\rjimswa.dswa.cache.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\scopedcss\bundle\dotnet curd app.styles.css
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\staticwebassets.build.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\staticwebassets.build.json.cache
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\staticwebassets.development.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\swae.build.ex.cache
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.dll
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\refint\dotnet curd app.dll
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.pdb
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.genruntimeconfig.cache
+d:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\ref\dotnet curd app.dll
+D:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\MinimalApis.Extensions.dll
+D:\development\c# tutorial\dotnet curd app\bin\Debug\net10.0\MiniValidation.dll
+D:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.csproj.AssemblyReference.cache
+D:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet curd app.MvcApplicationPartsAssemblyInfo.cs
+D:\development\c# tutorial\dotnet curd app\obj\Debug\net10.0\dotnet c.0E90154B.Up2Date

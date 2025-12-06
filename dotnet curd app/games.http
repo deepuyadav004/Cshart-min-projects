@@ -1,0 +1,33 @@
+GET http://localhost:5086/games
+
+
+###
+
+GET http://localhost:5086/games/20
+
+###
+
+POST http://localhost:5086/games
+Content-Type: application/json
+
+{
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Action-adventure",
+    "price": 59.99,
+    "releaseDate": "2024-03-03"
+}
+
+###
+
+PUT http://localhost:5086/games/2
+Content-Type: application/json
+
+{
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "genre": "Action-adventure",
+    "price": 69.99,
+    "releaseDate": "2024-05-12"
+}
+
+###
+DELETE http://localhost:5086/games/2

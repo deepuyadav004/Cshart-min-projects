@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U4NTtwqfB/s=",
+  "success": true,
+  "projectFilePath": "D:\\development\\c# tutorial\\dotnet curd app\\dotnet curd app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepu\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\deepu\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\deepu\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
