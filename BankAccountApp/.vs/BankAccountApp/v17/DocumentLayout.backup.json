@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{3BF6D7CF-0E46-4872-8EDC-362C88A29729}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\bankaccountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BF6D7CF-0E46-4872-8EDC-362C88A29729}|BankAccountApp\\BankAccountApp.csproj|d:\\development\\c# tutorial\\bankaccountapp\\bankaccountapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3BF6D7CF-0E46-4872-8EDC-362C88A29729}|BankAccountApp\\BankAccountApp.csproj|D:\\development\\c# tutorial\\BankAccountApp\\bankaccountapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3BF6D7CF-0E46-4872-8EDC-362C88A29729}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "BankAccountApp\\SavingsAccount.cs",
               "ToolTip": "D:\\development\\c# tutorial\\BankAccountApp\\BankAccountApp\\SavingsAccount.cs",
               "RelativeToolTip": "BankAccountApp\\SavingsAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T10:22:55.284Z",
               "EditorCaption": ""
@@ -51,12 +51,11 @@
               "Title": "BankAccountDetails.cs",
               "DocumentMoniker": "D:\\development\\c# tutorial\\BankAccountApp\\BankAccountApp\\BankAccountDetails.cs",
               "RelativeDocumentMoniker": "BankAccountApp\\BankAccountDetails.cs",
-              "ToolTip": "D:\\development\\c# tutorial\\BankAccountApp\\BankAccountApp\\BankAccountDetails.cs*",
-              "RelativeToolTip": "BankAccountApp\\BankAccountDetails.cs*",
+              "ToolTip": "D:\\development\\c# tutorial\\BankAccountApp\\BankAccountApp\\BankAccountDetails.cs",
+              "RelativeToolTip": "BankAccountApp\\BankAccountDetails.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAiwAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:44:10.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T07:44:10.786Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "ToolTip": "D:\\development\\c# tutorial\\BankAccountApp\\BankAccountApp\\Form1.cs [Design]",
               "RelativeToolTip": "BankAccountApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:23:34.483Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-05T07:23:34.483Z"
             }
           ]
         }

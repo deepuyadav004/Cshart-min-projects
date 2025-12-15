@@ -14,3 +14,4 @@ D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-window
 D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.pdb
 D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.genruntimeconfig.cache
 D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\ref\BankAccountApp.dll
+D:\development\c# tutorial\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.sourcelink.json
